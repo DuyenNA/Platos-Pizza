@@ -13,6 +13,7 @@ The analysis will provide the following key findings:
 - What are the best and worst-selling pizzas?
 - What's the average order value?
 - Is there enough seating when there are 15 tables and 60 chairs?
+![pizza dashboard](https://user-images.githubusercontent.com/124249298/217231910-6a98c103-5e63-4b2b-b211-bbb27f057dac.png)
 # Future Work 🎬
 The results of this project can be used as a foundation for future work, such as:
 - Change operating hours
