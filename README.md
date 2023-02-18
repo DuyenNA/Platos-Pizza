@@ -21,7 +21,8 @@ The results of this project can be used as a foundation for future work, such as
 - Prepare well for rush hour
 - Arrange more tables and chairs
 
-![pizza report](https://user-images.githubusercontent.com/124249298/217235947-2402d0b0-f3e1-4b2e-8798-4e5c6ddef440.png)
+![Screenshot_20230218_221812](https://user-images.githubusercontent.com/124249298/219873641-71d5774a-d550-4ca9-b42f-327a6eca429a.png)
+
 
 # Conclusion 📑
 The Plato's Pizza Business Data Analysis project provides a comprehensive understanding of the company's sales, as well as insights into menu item popularity and profitability. These insights can be used to make informed business decisions and drive growth for Plato's Pizza.
